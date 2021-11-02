@@ -1,2 +1,1 @@
-# AETWW-JavaScript-TranslatorApp
-Created with CodeSandbox
+# 2019-TWW-translator-app-skeleton
